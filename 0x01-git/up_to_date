@@ -1,1 +1,2 @@
-touch FILE_NAME
+#!bin/bash
+echo "touch 'name of file'"> up_to_date
